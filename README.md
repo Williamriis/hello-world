@@ -1,2 +1,3 @@
 # hello-world
-Practice repository
+
+My name is William Jensen and I am new to GitHub.
